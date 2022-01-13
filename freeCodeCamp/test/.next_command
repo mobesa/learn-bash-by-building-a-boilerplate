@@ -175,3 +175,9 @@ history -a
 touch header.png
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+tuch footer.jpeg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch footer.jpeg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
