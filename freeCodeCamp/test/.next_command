@@ -28,3 +28,6 @@ history -a
 pwd
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
