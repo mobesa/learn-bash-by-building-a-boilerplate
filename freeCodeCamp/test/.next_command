@@ -245,3 +245,6 @@ history -a
 cp header.png images/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cp footer.jpeg images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
