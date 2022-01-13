@@ -281,3 +281,6 @@ history -a
 mv lato.font lato.ttf
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv menlo.font menlo.otf
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
