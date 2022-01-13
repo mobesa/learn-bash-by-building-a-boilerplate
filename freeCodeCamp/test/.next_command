@@ -133,3 +133,6 @@ history -a
 echo hello website
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch index.html
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
