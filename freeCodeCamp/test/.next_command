@@ -55,3 +55,6 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cd node_modules/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
