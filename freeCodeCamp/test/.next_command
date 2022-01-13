@@ -275,3 +275,6 @@ history -a
 mv roboto.font roboto.woff
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
