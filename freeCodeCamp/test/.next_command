@@ -1,0 +1,5 @@
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo hello terminal
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
