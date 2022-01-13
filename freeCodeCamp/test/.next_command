@@ -207,3 +207,6 @@ history -a
 touch CodeRoad.svg
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch freeCodeCamp.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
