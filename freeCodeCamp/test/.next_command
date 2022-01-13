@@ -11,3 +11,17 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/home/codeally/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"0798d18c64db15268ac92125e17043d7" + JSON.stringify(process.env) + "0798d18c64db15268ac92125e17043d7"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"5a4c2446c80f" + JSON.stringify(process.env) + "5a4c2446c80f"'
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd freeCodeCamp/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
