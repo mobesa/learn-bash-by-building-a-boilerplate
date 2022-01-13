@@ -219,3 +219,6 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cp background.jpg images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
