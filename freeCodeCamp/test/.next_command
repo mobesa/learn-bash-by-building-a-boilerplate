@@ -298,3 +298,6 @@ history -a
 mv roboto.woff fonts
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
