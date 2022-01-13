@@ -248,3 +248,6 @@ history -a
 cp footer.jpeg images/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cd images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
