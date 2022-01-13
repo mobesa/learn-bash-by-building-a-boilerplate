@@ -263,3 +263,6 @@ history -a
 rm header.png
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+rm footer.jpeg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
