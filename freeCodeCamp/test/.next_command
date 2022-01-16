@@ -524,3 +524,6 @@ history -a
 mkdir client/assets/icons
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv CodeAlly.svg client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
