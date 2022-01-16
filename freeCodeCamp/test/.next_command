@@ -366,3 +366,6 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find client
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
