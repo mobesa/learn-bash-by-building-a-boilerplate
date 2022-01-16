@@ -530,3 +530,6 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv CodeRoad.svg client/assets/icons/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
