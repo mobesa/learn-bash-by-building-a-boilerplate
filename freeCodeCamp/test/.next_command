@@ -351,3 +351,6 @@ history -a
 mkdir client/src
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv index.html client/src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
