@@ -407,3 +407,6 @@ history -a
 cd client/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mkdir assets
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
