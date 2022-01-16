@@ -533,3 +533,6 @@ history -a
 mv CodeRoad.svg client/assets/icons/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv freeCodeCamp.svg client/assets/icons/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
