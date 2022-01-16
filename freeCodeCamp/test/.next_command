@@ -336,3 +336,6 @@ history -a
 mv lato.ttf fonts
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv menlo.otf fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
