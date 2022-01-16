@@ -427,3 +427,6 @@ history -a
 mkdir images
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cd images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
