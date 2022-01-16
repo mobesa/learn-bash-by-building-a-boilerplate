@@ -395,3 +395,6 @@ history -a
 find -name styles.css
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find -name src
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
