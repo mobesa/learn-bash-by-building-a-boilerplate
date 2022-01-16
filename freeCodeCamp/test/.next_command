@@ -301,3 +301,38 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/home/codeally/.vscode-server/bin/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"58fa5cd1ed7cecd1d954d5d2b82bfe36" + JSON.stringify(process.env) + "58fa5cd1ed7cecd1d954d5d2b82bfe36"'
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/899d46d82c4c95423fb7e10e68eba52050e30ba3/node' -p '"a68723be28f1" + JSON.stringify(process.env) + "a68723be28f1"'
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -l
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv lato.ttf fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv fonts/lato.ttf .
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv lato.ttf fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
