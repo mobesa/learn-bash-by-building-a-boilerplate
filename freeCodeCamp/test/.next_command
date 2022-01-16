@@ -548,3 +548,9 @@ history -a
 mkdir client/assets/fonts
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch assets/fonts/roboto-bold.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch client/assets/fonts/roboto-bold.woff
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
