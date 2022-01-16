@@ -563,3 +563,6 @@ history -a
 touch client/assets/fonts/lato-bold.ttf
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch client/assets/fonts/lato-light.ttf
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
