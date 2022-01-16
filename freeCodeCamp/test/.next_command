@@ -485,3 +485,6 @@ history -a
 find -name header.png
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find -name footer.jpeg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
