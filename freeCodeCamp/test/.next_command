@@ -515,3 +515,12 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mkdir client/assets/icon
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir client/assets/icon
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mkdir client/assets/icons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
