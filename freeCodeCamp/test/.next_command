@@ -479,3 +479,6 @@ history -a
 find -name images
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv header.png client/assets/images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
