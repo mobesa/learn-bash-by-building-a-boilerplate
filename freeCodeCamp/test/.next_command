@@ -488,3 +488,6 @@ history -a
 find -name footer.jpeg
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mv images/footer.jpeg client/assets/images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
