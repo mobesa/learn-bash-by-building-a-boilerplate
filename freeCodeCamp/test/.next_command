@@ -467,3 +467,15 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
